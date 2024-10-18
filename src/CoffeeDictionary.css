@@ -1,0 +1,42 @@
+.CoffeeDictionary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.search-bar {
+  width: 100%;
+  max-width: 600px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  border: 2px solid #333;
+  border-radius: 4px;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.definitions-list {
+  width: 100%;
+  max-width: 800px;
+}
+
+.definition-item {
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.definition-item h3 {
+  margin-top: 0;
+  color: #37DE7A;
+}
+
+.definition-item p {
+  margin-bottom: 0;
+}

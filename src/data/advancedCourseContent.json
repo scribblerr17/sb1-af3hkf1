@@ -1,0 +1,53 @@
+{
+  "title": "Advanced Barista Course",
+  "blocks": [
+    {
+      "id": 1,
+      "title": "1. Coffee Bean Origins and Flavor Profiles",
+      "content": "In this advanced module, we'll explore the diverse world of coffee bean origins and their unique flavor profiles. We'll discuss how factors like altitude, soil composition, and processing methods influence the taste of coffee from different regions around the world.",
+      "quiz": [
+        {
+          "question": "Which factor does NOT typically influence coffee flavor?",
+          "options": ["Altitude", "Soil composition", "Processing method", "Bean color"],
+          "correctAnswer": "Bean color"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "2. Advanced Espresso Extraction Techniques",
+      "content": "This section covers advanced techniques for espresso extraction, including pressure profiling, temperature manipulation, and how to adjust grind size and dose for optimal flavor extraction. We'll also discuss how to troubleshoot common issues in espresso preparation.",
+      "quiz": [
+        {
+          "question": "What is pressure profiling in espresso extraction?",
+          "options": ["Changing water pressure during extraction", "Measuring bean density", "Adjusting grind size", "Timing the extraction"],
+          "correctAnswer": "Changing water pressure during extraction"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "3. Milk Chemistry and Advanced Latte Art",
+      "content": "Delve deeper into the science of milk steaming, understanding protein and fat content effects on foam quality. Learn advanced latte art techniques, including multiple pour designs and etching.",
+      "quiz": [
+        {
+          "question": "Which milk component is primarily responsible for creating stable foam?",
+          "options": ["Lactose", "Fat", "Proteins", "Water"],
+          "correctAnswer": "Proteins"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "4. Coffee Shop Management and Customer Service",
+      "content": "This final module covers the business aspect of being an advanced barista, including inventory management, equipment maintenance, and exceptional customer service techniques. We'll also discuss how to create a unique coffee shop experience.",
+      "quiz": [
+        {
+          "question": "What is NOT typically part of a barista's role in coffee shop management?",
+          "options": ["Equipment cleaning", "Inventory tracking", "Financial auditing", "Customer interaction"],
+          "correctAnswer": "Financial auditing"
+        }
+      ]
+    }
+  ]
+}

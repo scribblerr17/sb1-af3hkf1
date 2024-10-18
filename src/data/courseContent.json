@@ -1,0 +1,53 @@
+{
+  "title": "Barista Baseline Course",
+  "blocks": [
+    {
+      "id": 1,
+      "title": "1. What is Coffee?",
+      "content": "Coffee is a beloved beverage prepared from roasted coffee beans, which are the seeds of berries from plants in the Coffea genus. Known for its rich flavor and caffeine content, coffee is one of the world's most popular drinks. While there are many brewing methods, in this course, we'll focus on the espresso method, which forms the basis for many popular coffee drinks. Coffee's journey from plant to cup is fascinating, involving cultivation, harvesting, processing, roasting, and finally, brewing. Each step influences the final taste, making coffee a complex and nuanced drink appreciated by millions worldwide.",
+      "quiz": [
+        {
+          "question": "What is coffee made from?",
+          "options": ["Tea leaves", "Cocoa beans", "Coffee beans", "Wheat"],
+          "correctAnswer": "Coffee beans"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "2. Espresso Basics",
+      "content": "Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It's made by forcing pressurized hot water through very finely ground coffee beans using an espresso machine.",
+      "quiz": [
+        {
+          "question": "What machine is used to make espresso?",
+          "options": ["Drip coffee maker", "French press", "Espresso machine", "Percolator"],
+          "correctAnswer": "Espresso machine"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "3. Milk Steaming Techniques",
+      "content": "Steaming milk is an essential skill for a barista. It involves using the steam wand on an espresso machine to heat and texture milk, creating microfoam for drinks like lattes and cappuccinos.",
+      "quiz": [
+        {
+          "question": "What is microfoam?",
+          "options": ["A type of coffee bean", "Finely textured milk", "A coffee filter", "A type of espresso"],
+          "correctAnswer": "Finely textured milk"
+        }
+       ]
+     },
+     {
+      "id": 4,
+      "title": "4. Latte Art Basics",
+      "content": "Latte art is the creative practice of pouring steamed milk into a shot of espresso in a way that creates patterns or designs on the surface of the resulting latte. It's not just about aesthetics; good latte art is often an indicator of well-prepared espresso and properly steamed milk. Common designs include hearts, rosettas, and tulips.",
+      "quiz": [
+        {
+          "question": "What is the primary purpose of latte art?",
+          "options": ["To increase the price", "To show off", "To indicate quality", "To hide bad espresso"],
+          "correctAnswer": "To indicate quality"
+        }
+      ]
+    }
+  ]
+}

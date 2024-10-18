@@ -1,0 +1,122 @@
+[
+  {
+    "term": "Espresso",
+    "definition": "A concentrated form of coffee served in small, strong shots. It's made by forcing pressurized hot water through very finely ground coffee beans."
+  },
+  {
+    "term": "Cappuccino",
+    "definition": "An espresso-based drink that consists of equal parts espresso, steamed milk, and milk foam."
+  },
+  {
+    "term": "Latte",
+    "definition": "A coffee drink made with espresso and steamed milk, topped with a small layer of milk foam."
+  },
+  {
+    "term": "Americano",
+    "definition": "A drink made by adding hot water to espresso, giving it a similar strength to, but different flavor from, regular drip coffee."
+  },
+  {
+    "term": "Macchiato",
+    "definition": "An espresso with a small amount of foamed milk on top."
+  },
+  {
+    "term": "Cold Brew",
+    "definition": "Coffee made by steeping coarse grounds in cold water for an extended period, usually 12-24 hours."
+  },
+  {
+    "term": "French Press",
+    "definition": "A coffee brewing device in which coarsely ground coffee is steeped in hot water and then separated from the grounds by pressing a mesh plunger through the pot."
+  },
+  {
+    "term": "Crema",
+    "definition": "The layer of tan-colored foam that sits on top of a freshly brewed shot of espresso."
+  },
+  {
+    "term": "Roast",
+    "definition": "The process of heating coffee beans to develop their flavor. Common roast levels include light, medium, and dark."
+  },
+  {
+    "term": "Barista",
+    "definition": "A person who prepares and serves coffee drinks, typically in a coffee shop."
+  },
+  {
+    "term": "First Crack",
+    "definition": "The stage in coffee roasting when beans begin to pop and expand, releasing water vapor and CO2. It signifies the beginning of light roast development."
+  },
+  {
+    "term": "Second Crack",
+    "definition": "A later stage in coffee roasting, characterized by a more subtle crackling sound. It indicates the beginning of dark roast development and oil emergence on the bean surface."
+  },
+  {
+    "term": "Cupping",
+    "definition": "A professional tasting technique used to evaluate the aroma and flavor profile of a coffee."
+  },
+  {
+    "term": "Dosing",
+    "definition": "The process of measuring the correct amount of ground coffee for brewing, typically for espresso preparation."
+  },
+  {
+    "term": "Tamping",
+    "definition": "The act of compressing ground coffee in an espresso portafilter to create resistance for water flow during extraction."
+  },
+  {
+    "term": "Portafilter",
+    "definition": "A handled basket that holds ground coffee for espresso brewing, which attaches to the group head of an espresso machine."
+  },
+  {
+    "term": "Group Head",
+    "definition": "The part of an espresso machine where the portafilter is attached and through which hot water is dispensed for brewing."
+  },
+  {
+    "term": "Burr Grinder",
+    "definition": "A type of coffee grinder that uses two revolving abrasive surfaces (burrs) to grind coffee beans, resulting in uniform particle size."
+  },
+  {
+    "term": "Conical Burr",
+    "definition": "A type of burr grinder with a cone-shaped center burr, known for producing consistent grinds and generating less heat."
+  },
+  {
+    "term": "Flat Burr",
+    "definition": "A type of burr grinder with two parallel rings of burrs, known for producing very uniform grinds ideal for espresso."
+  },
+  {
+    "term": "Microfoam",
+    "definition": "Finely textured milk with small, uniform bubbles, created during the steaming process for drinks like lattes and cappuccinos."
+  },
+  {
+    "term": "Stretching",
+    "definition": "The initial phase of milk steaming where air is introduced to create foam."
+  },
+  {
+    "term": "Texturing",
+    "definition": "The process of heating and aerating milk to create a smooth, velvety consistency for use in espresso-based drinks."
+  },
+  {
+    "term": "Backflushing",
+    "definition": "A cleaning process for espresso machines where water is forced backwards through the group head to remove coffee oils and residue."
+  },
+  {
+    "term": "Descaling",
+    "definition": "The process of removing mineral buildup from inside an espresso machine or other coffee equipment using a descaling solution."
+  },
+  {
+    "term": "Purging",
+    "definition": "The act of running water or steam through an espresso machine's group head or steam wand to clean it between uses."
+  },
+  {
+    "term": "Dialing In",
+    "definition": "The process of adjusting various parameters (grind size, dose, tamp pressure) to achieve the optimal espresso extraction."
+  },
+  {
+    "term": "Extraction",
+    "definition": "The process of dissolving desirable flavors from coffee grounds into water during brewing."
+  },
+  {
+    "term": "Over-extraction",
+    "definition": "When too much is taken from the coffee grounds, resulting in bitter, astringent flavors."
+  },
+  {
+    "term": "Under-extraction",
+    "definition": "When too little is taken from the coffee grounds, resulting in sour, weak, and underdeveloped flavors."
+  }
+]
